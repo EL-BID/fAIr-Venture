@@ -32,7 +32,7 @@
 
 * **Dimensión Sociedad**: Las preguntas en esta dimensión buscan entender los usuarios del sistema de IA y los grupos impactados por la tecnología, el grado de notificación que genera el sistema sobre la interacción con los usuarios y su potencial impacto negativo sobre áreas relevantes para el bienestar de los seres humanos, entre otras.
 
-* **-	Dimensión Solución**: Las preguntas en esta dimensión buscan entender las áreas de aplicación y usos del sistema de IA, la criticidad de dichas actividades y el alcance de su despliegue, entre otras.
+* **Dimensión Solución**: Las preguntas en esta dimensión buscan entender las áreas de aplicación y usos del sistema de IA, la criticidad de dichas actividades y el alcance de su despliegue, entre otras.
 
 * **Dimensión Sistema**: Las preguntas en esta dimensión buscan entender aspectos específicos de la tecnología como las características de los datos insumo del modelo y de la base de datos de entrenamiento, la adopción de prácticas de evaluación de sesgos y de transparencia y explicabilidad, y el grado de autonomía del modelo, entre otras.
 
